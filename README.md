@@ -89,12 +89,6 @@ IU Internationale Hochschule
 
 ---
 
-## Repository
-
-Link zum Repository: *(hier einfügen)*
-
----
-
 ## Hinweis
 
 Dieses Projekt wurde ausschließlich zu Studienzwecken erstellt und dient der Demonstration von Datenbankdesign und SQL-Implementierung im Kontext einer Buchtausch-App.
